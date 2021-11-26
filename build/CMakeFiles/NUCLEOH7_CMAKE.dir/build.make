@@ -512,9 +512,126 @@ CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c.s"
 	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c.s
 
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/croutine.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/croutine.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/list.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/list.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/list.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/queue.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/queue.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/queue.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/tasks.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/tasks.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.s
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj   -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/timers.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.i"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/timers.c > CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.i
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.s"
+	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/rawinza555/Freertos_Make/TestFreeRTOSMake/Middlewares/Third_Party/FreeRTOS/Source/timers.c -o CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.s
+
 CMakeFiles/NUCLEOH7_CMAKE.dir/startup_stm32h743xx.s.obj: CMakeFiles/NUCLEOH7_CMAKE.dir/flags.make
 CMakeFiles/NUCLEOH7_CMAKE.dir/startup_stm32h743xx.s.obj: ../startup_stm32h743xx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object CMakeFiles/NUCLEOH7_CMAKE.dir/startup_stm32h743xx.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building ASM object CMakeFiles/NUCLEOH7_CMAKE.dir/startup_stm32h743xx.s.obj"
 	/usr/bin/arm-none-eabi-gcc -fdata-sections -ffunction-sections     --specs=nano.specs -Wl,--gc-sections $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/NUCLEOH7_CMAKE.dir/startup_stm32h743xx.s.obj -c /home/rawinza555/Freertos_Make/TestFreeRTOSMake/startup_stm32h743xx.s
 
 # Object files for target NUCLEOH7_CMAKE
@@ -554,6 +671,15 @@ NUCLEOH7_CMAKE_OBJECTS = \
 "CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj" \
 "CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj" \
 "CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj" \
+"CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj" \
 "CMakeFiles/NUCLEOH7_CMAKE.dir/startup_stm32h743xx.s.obj"
 
 # External object files for target NUCLEOH7_CMAKE
@@ -594,10 +720,19 @@ NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/S
 NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
 NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
 NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
 NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/startup_stm32h743xx.s.obj
 NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/build.make
 NUCLEOH7_CMAKE.elf: CMakeFiles/NUCLEOH7_CMAKE.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Linking C executable NUCLEOH7_CMAKE.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking C executable NUCLEOH7_CMAKE.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/NUCLEOH7_CMAKE.dir/link.txt --verbose=$(VERBOSE)
 	arm-none-eabi-size /home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/NUCLEOH7_CMAKE.elf
 	arm-none-eabi-objcopy -O ihex /home/rawinza555/Freertos_Make/TestFreeRTOSMake/build/NUCLEOH7_CMAKE.elf NUCLEOH7_CMAKE.hex

@@ -51,16 +51,16 @@ file(GLOB_RECURSE STM32CUBEMX_SOURCES
     ${CMAKE_CURRENT_SOURCE_DIR}/Core/system_stm32h7xx.c
     ${CMAKE_CURRENT_SOURCE_DIR}/Core/usart.c
     ${CMAKE_CURRENT_SOURCE_DIR}/Core/usb_otg.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/croutine.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/event_groups.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/list.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/queue.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/stream_buffer.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/tasks.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/timers.c
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/portable/MemMang/heap_4.c 
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c  
-    ${CMAKE_CURRENT_SOURCE_DIR}/Core/FreeRTOS/CMSIS_RTOS_V2/cmsis_os2.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/list.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/queue.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/timers.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c 
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c  
+    ${CMAKE_CURRENT_SOURCE_DIR}/Middlewares/Third_Party/FreeRTOS/CMSIS_RTOS_V2/cmsis_os2.c
     ${CMAKE_CURRENT_SOURCE_DIR}/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c
     ${CMAKE_CURRENT_SOURCE_DIR}/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.c
     ${CMAKE_CURRENT_SOURCE_DIR}/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth_ex.c

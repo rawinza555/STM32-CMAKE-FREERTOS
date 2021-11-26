@@ -4627,3 +4627,111 @@ CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.
 CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usb.h
 CMakeFiles/NUCLEOH7_CMAKE.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.c
 
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Core/Inc/FreeRTOSConfig.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h
+CMakeFiles/NUCLEOH7_CMAKE.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+
